@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["543549211057061888"],
+        "ACTIVITY_TEXT": "Developer By Meliodas",
+        "GUILD_ID": "788395499580948501",
+        "VOICE_CHANNEL": "791948655656960015",
+        "MIN_STAFF_ROLE": "788407155194593300"
+    },
+    "FILES": {
+        "WELCOME": "default_files/welcome.mp3",
+        "STAFF": "default_files/staff.mp3"
+    },
+    "TOKEN": "Nzk2Mzk4MjIxMDkzNjM0MDU5.X_XVpA.xn7bpwLp-2XqhOPAax24wq4tCyo"
+}
